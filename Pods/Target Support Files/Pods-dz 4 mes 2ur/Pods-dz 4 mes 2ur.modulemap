@@ -1,0 +1,6 @@
+framework module Pods_dz_4_mes_2ur {
+  umbrella header "Pods-dz 4 mes 2ur-umbrella.h"
+
+  export *
+  module * { export * }
+}
